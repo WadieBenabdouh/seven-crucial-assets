@@ -64,7 +64,7 @@
 #discover-offer-four:hover, #discover-offer-five:hover, #discover-offer-six:hover,
 #discover-offer-seven:hover, #discover-offer-eight:hover, #discover-offer-nine:hover{
 	color: #000 !important;
-	text-decoration: underline dotted #e8a400 2px;
+	text-decoration: underline dotted #000 1px;
 }
 
 
