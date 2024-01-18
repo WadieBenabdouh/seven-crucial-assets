@@ -1,0 +1,39 @@
+[TAB1]
+Définissez votre stratégie de Transformation Technologique et imaginez l’expérience de demain
+
+1-
+<b>Stratégie digitale</b> – Définissez votre stratégie de transformation Entreprise en intégrant les dernières technologies au cœur de vos opérations
+
+2-
+<b>CRM</b> – Réinventez votre relation client grâce notre expertise CRM : une stratégie et des outils sur-mesures pour une expérience client optimisée et innovante
+
+3-
+<b>Digital Expérience </b>– Démarquez-vous dans le monde numérique : nous façonnons des parcours digitaux sur-mesure pour une expérience utilisateur transformée
+
+-------------------------------------------------------------------
+[TAB2]
+Développez vos applications web, mobile et business à l’état de l’art
+
+1-
+<b>Digital Products </b>– Concevez, développez et faites évoluer rapidement un produit digital pour améliorer l’expérience de vos clients ou de vos collaborateurs.
+
+2-
+<b>Digital Factories </b>– Construisez votre Digital Factory agile pour industrialiser le développement de vos solutions digitales et améliorer le time to market de vos projets
+
+3-
+<b>Banking Softwares</b> – Passez à une nouvelle génération de plateformes bancaires, omnicanales et scalables pour proposer à vos clients une expérience révolutionnaire
+
+
+-------------------------------------------------------------------
+[TAB3]
+Construisez votre plateforme et vos usages data de bout en bout
+
+1-
+<b>Stratégie Data et Gouvernance</b>  – Définissez et mettez en place une stratégie et vision Data cohérentes tout en transformant votre organisation et processus de gouvernance
+
+2-
+<b>Data Engineering </b>– Construisez votre plateforme data moderne, nettoyez votre dette technique et garantissez à vos métiers une donnée fiable et exploitable
+
+3-
+<b>Produits Data</b> – Développez vos produits data science, augmentez la précision de vos algorithmes ou simplement la qualité de vos reporting / visualisations
+

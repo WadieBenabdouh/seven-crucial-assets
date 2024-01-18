@@ -1,0 +1,689 @@
+::selection{
+  color: #fff !important;
+	background-color: blue;
+}
+
+#scrollUp{
+	border-radius: 50px;
+	position: relative;
+	left: 91%;
+	opacity: 0.5;
+	max-width: 2em;
+	max-height: 2em;
+	background-color: #e8a400;
+}
+
+#scrollUp svg{
+	padding-bottom: 0.5em;
+}
+
+
+#menu-main-menu-new{
+	background-color: #1E1D1D !important;
+}
+
+
+
+
+/* Heading H1 */
+.elementor-widget-container h1{
+	color: #f4bd0b !important;
+	font-style: italic;
+	font-weight: 500;
+}
+/* HEADING H1 END */
+
+
+/* header links */
+.menu-link{
+	color: #fff !important;
+	transition: 0.2s !important;
+}
+
+.menu-link:hover{
+	color: #f4bd0b !important;
+}
+
+.icon-down-arrow1{
+	color: #fff !important;
+}
+/* header links end */
+
+
+/*--------TILES OF TABS----*/
+.e-n-tab-title{
+	height: 2.5em !important;
+}
+/*--------TILES OF TABS END----*/
+
+
+
+/* TABS Colors on Hover */
+#e-n-tab-content-1861 > *:hover{
+	background-color: #fff !important;
+}
+
+#e-n-tab-content-1862 > *:hover{
+	background-color: #fff !important;
+}
+
+#e-n-tab-content-1863 > *:hover{
+	background-color: #fff !important;
+}
+/* TABS Colors on Hover */
+
+
+
+/* Tiles descriptions */
+.elementor-divider > *{
+	border-top-color: #f4bd0b !important;
+}
+/* Tiles descriptions end */
+
+
+
+/* GRID SPONSORS */
+.sponsors-grid{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	place-items: center;
+	gap: 5em;
+}
+/* GRID SPONSORS END*/
+
+
+
+/*---- NOS OFFRES PAGE CUSTOM CSS ----*/
+/* TESTIMONIAL */
+.single-item-wrapper{
+	display: flex;
+	flex-direction: column-reverse !important;
+}
+
+.tss-meta-info{
+	display: flex;
+	justify-content: end;
+}
+
+.author-bio{
+	text-align: end !important;
+}
+
+.swiper-arrow{
+	margin-top: 8.5em !important;
+}
+
+.item-content-wrapper{
+	align-self: end !important;
+	width: 70%;
+}
+
+.author-name{
+	text-align: end !important;
+}
+
+.profile-img-wrapper img {
+	max-width: 5em !important;
+}
+/* TESTIMONIAL END */
+/*---- NOS OFFRES PAGE CUSTOM CSS END ----*/
+
+
+/* NOS CENTRES */
+	.elementor-element-01ca328 img{
+		/* first 3 icons		 */
+		max-width: 1.4em !important;
+	}
+	
+	.elementor-element-5b39154 img{
+		max-width: 1.4em !important;
+	}
+/* NOS CENTRES END */
+
+
+
+/* NOS PARTENAIRES */
+		.elementor-element-31197862 img{
+		max-width: 6em !important;
+	}
+/* NOS PARTENAIRES END */
+
+
+/*---- CONTACTEZ-NOUS FORM ----*/
+#wpforms-form-9207{
+	font-family: outfit, sans-serif;
+}
+
+/* NOM / PRENOM */
+
+#wpforms-9207-field_12-container label {
+	color: #000;
+}
+
+#wpforms-9207-field_12{
+	padding: 10px;
+	border-radius: 10px;
+	border: solid 1px #000;
+}
+
+#wpforms-9207-field_12-last{
+	padding: 10px;
+	border-radius: 10px;
+	border: solid 1px #000;
+}
+
+/* NOM / PRENOM END*/
+
+/* EMAIL */
+#wpforms-9207-field_9-container label {
+	color: #000;
+}
+
+#wpforms-9207-field_9-container input{
+	padding: 10px;
+	border-radius: 10px;
+	border: solid 1px #000;
+}
+/* EMAIL END*/
+
+/* TELEPHONE */
+#wpforms-9207-field_4-container label {
+	color: #000;
+}
+
+#wpforms-9207-field_4-container input {
+	padding: 10px;
+	border-radius: 10px;
+	border: solid 1px #000;
+}
+/* TELEPHONE END */
+
+/* ENTREPRISE */
+#wpforms-9207-field_13-container label {
+	color: #000;
+}
+
+#wpforms-9207-field_13-container input {
+	padding: 10px;
+	border-radius: 10px;
+	border: solid 1px #000;
+}
+/* ENTREPRISE END */
+
+/* DESCRIPTION PROJET */
+#wpforms-9207-field_14-container label {
+	 color: #000;
+}
+
+#wpforms-9207-field_14-container textarea {
+	width: 60%;
+	resize: none;
+	border-radius: 10px;
+	border: solid 1px #000;
+}
+/* DESCRIPTION PROJET END */
+
+/* Budget */
+#wpforms-9207-field_16-container label {
+	color: #000;
+}
+
+#wpforms-9207-field_16-container select {
+	padding: 10px;
+	border-radius: 10px;
+	border: solid 1px #000;
+}
+/* Budget END */
+
+/* Connaintre SEVEN */
+#wpforms-9207-field_20-container label {
+	color: #000;
+	text-decoration: underline;
+	font-weight: normal;
+}
+
+#wpforms-9207-field_20-container select {
+	padding: 10px;
+	border-radius: 10px;
+	border: solid 1px #000;
+}
+/* Connaintre SEVEN END */
+
+/* SUBMIT BTN */
+#wpforms-submit-9207{
+	background-color: #f4bd0b;
+	border: solid 1px #000;
+	border-radius: 10px;
+}
+#wpforms-submit-9207:hover{
+	background-color: #000;
+	color: #f4bd0b;
+}
+/* SUBMIT BTN END */
+/*---- CONTACTEZ-NOUS FORM END ----*/
+
+
+/*---- NOS CLIENT PAGE ----*/
+/* SECTION SCROLL*/
+.elementor-element-8bb119a{
+	width: 90%;
+	white-space: nowrap;
+	overflow-x: scroll;
+	display: block;
+	font-family: outfit;
+}
+.elementor-element-8bb119a > * {
+	display: inline-block;
+}
+
+.elementor-element-8bb119a{
+	scrollbar-color: #000 #000 !important;
+}
+/* SECTION SCROLL (ARTICLES)*/
+/*---- NOS CLIENT PAGE END----*/
+
+/* DREMIO-MICROSOFT */
+.elementor-element-8c3c5e6{
+	margin-bottom: 2em;
+	transform: scale(0.90);
+	border: none !important;
+	border-radius: 30px;
+	border-left: solid 5px #f4bd0b !important;
+}
+
+/* DREMIO-MICROSOFT */
+
+
+/* GRID PATNERS SLIDER*/
+	padding: 0.5em;
+}
+
+.swiper-wrapper > *{
+	margin: 5px 0;
+}
+
+.swiper-slide{
+		border-bottom: dashed 2px #f4bd0b !important;
+	border-radius: 50px;
+}
+
+.bdt-ep-static-carousel-content{
+	padding: 0 30px !important;
+	margin-top: -25px;
+}
+
+.bdt-ep-static-carousel-item{
+	background-color: #fff !important;
+	height: 14em !important;
+	transform: scale(0.9)
+}
+.bdt-ep-static-carousel-image{
+	display: flex ;
+	justify-content: center;
+}
+.bdt-ep-static-carousel-image img {
+	max-width: 7.2em !important;
+}
+
+.bdt-ep-static-carousel-title{
+	font-size: 1em !important;
+	font-weight: 400 !important;
+	line-height: 1.3em;
+	font-family: outfit, sans-serif;
+	margin-top: 0.5em !important;
+}
+
+/* arrows */
+.ep-icon-arrow-left-3{
+	margin-left: 3.3em !important;
+	background-color: #f4bd0b;
+	color: #fff;
+	padding: 5px;
+	font-size: 1em !important;
+	border-radius: 10px;
+}
+.ep-icon-arrow-right-3{
+	margin-right: 3.3em !important;
+		color: #fff;
+	background-color: #f4bd0b;
+	padding: 5px;
+	font-size: 1em !important;
+		border-radius: 10px;
+}
+
+/* GRID PATNERS SLIDER END*/
+
+
+
+
+/* ---CHATBOT AI PAGE--- */
+
+/* ACCORDIONS */
+.sp-ea-single{
+	border-radius: 20px !important;
+	border: solid gray 1px !important;
+	background-color: #f4bd0b !important;
+}
+
+.sp-ea-single a {
+	font-size: 0.9rem !important;
+	color: #000 !important; 
+}
+
+.sp-ea-single i {
+	color: #000 !important;
+	font-size: 0.6rem !important;
+}
+
+.sp-ea-single .ea-body p {
+	font-family: outfit !important;
+}
+/* ACCORDIONS END */
+
+/* ---CHATBOT AI PAGE END- */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ======REPSONSIVE======= */
+/* ===========AREA======= */
+
+
+/* RESPONSIVE MODE */
+@media screen and (max-width: 768px){
+	
+	h1{
+		font-size: 1.8rem !important;
+	}
+	
+	
+/* 	PARTNERS */
+	.sponsors-wrapper > * {
+		display: grid !important;
+		grid-template-columns: 1fr 1fr 1fr;
+		place-items: center;
+		gap: 1.5em !important;
+		padding-top: 4em !important;
+	}
+	
+	.sponsors-wrapper img {
+		transform: scale(1.5);
+	}
+	
+	.elementor-element-deba43b{
+		grid-column-start: 2;
+	}
+/* 	PARTNERS END */
+	
+	
+/* TABS	 */
+	.e-n-tab-title{
+		padding: 15px !important;
+		margin-bottom: 10px !important;
+		background-color: #fca311 !important;
+		border-bottom: solid 1px gray !important;
+	}
+	
+	.e-n-tab-title > *{
+		color: #000;
+		font-weight: 600;
+		font-family: outfit, sans-serif;
+	}
+	
+	.e-n-tab-icon{
+		display: none !important;
+			/* 	hides stupid icon I don't need	 */
+	}	
+/* TABS END */
+	
+	
+/* 	burger menu */
+	#ekit-megamenu-main-menu-new{
+		background-color: #1F1E1EFC !important;
+	}
+	
+	.elementskit-menu-close{
+		border: solid 1px #000 !important;
+		border-radius: 50px !important;
+		padding: 10px !important;
+	}
+	
+	#menu-main-menu-new li > *{
+		color: #fff !important;
+		font-size: 1.2rem;
+	}
+	
+	#menu-main-menu-new li > *:hover{
+		color: gray !important;
+		text-decoration: underline;
+		text-decoration-color: gray;
+	}
+/* 	burger menu end */
+	
+
+
+	/* NOS PARTENAIRES */
+		.elementor-element-31197862 img{
+		max-width: 5em !important;
+	}
+/* NOS PARTENAIRES END */
+	
+	
+	
+/* Nos centres d'expertises */
+	#menu-item-6925 h5 {
+		text-align: center;
+		text-decoration: underline;
+		line-height: 24px;
+	}
+	
+	.elementor-element-01ca328 img{
+		/* first 3 icons		 */
+		max-width: 1.7em !important;
+	}
+	
+	.elementor-element-5b39154 img{
+		max-width: 1.7em !important;
+	}
+	
+/* Nos centres d'expertises end */
+	
+	/* show contactez-nous in mobile */
+	#menu-item-7990{
+		display: block !important;
+	}
+
+/* show contactez-nous in mobile end*/
+	
+	
+	/* GRID SPONSORS */
+.sponsors-grid{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	place-items: center;
+	gap: 5em;
+}
+/* GRID SPONSORS END*/
+	
+/* 	jobs-slider */
+	.jobs-slider{
+		overflow-x: scroll;
+	}
+/* jobs-slider end	 */
+	
+	
+	/* NOS OFFRES PAGE CUSTOM CSS */
+
+/* TESTIMONIAL */
+.single-item-wrapper{
+	display: flex;
+	flex-direction: column-reverse !important;
+}
+	
+	.item-content-wrapper{
+	align-self: end !important;
+	width: 100%;
+}
+	
+	.swiper-arrow{
+		display: none !important;
+	}
+
+.tss-meta-info{
+	display: flex;
+	justify-content: end;
+}
+
+	.author-name{
+		align-self: end;
+	}
+	
+	.author-bio{
+		text-align: end !important;
+	}
+.profile-img-wrapper img {
+	max-width: 7em !important;
+}
+/* TESTIMONIAL END */
+/* NOS OFFRES PAGE CUSTOM CSS END */
+	
+	
+	/* CONTACTEZ-NOUS FORM */	
+.contact-form {
+	display: grid;
+	grid-template-columns: 1fr;
+	gap: 1em;
+	padding: 0;
+
+}
+
+.contact-form label {
+	color: #fff;
+	font-weight: bold;
+	font-family: outfit;
+}
+
+.section-one-form input {
+	padding: 0.4em !important;
+	border-radius: 10px;
+}
+
+.section-two-form input {
+	padding: 0.4em !important;
+}
+
+section-two-form select{
+	padding: 0.4em !important;
+	}
+/* CONTACTEZ-NOUS FORM END */
+
+	
+/* Dremio...Microsoft */
+	
+	.elementor-element-8c3c5e6{
+		border-left: solid 5px #E8A400 !important;
+	}
+.triple-partners img{
+	max-width: 7em;
+	}	
+	
+	.dremio-img{
+		transform: scale(0.79)
+	}
+	
+/* Dremio...Microsoft End*/
+	
+	
+/* FORM */
+/* 	TEXTAREA */
+	#wpforms-9207-field_14-container textarea {
+	width: 100%;
+}
+/* 	TEXTAREA END */
+	
+/* SUBMIT */
+.wpforms-submit-container{
+		display: flex;
+		justify-content: center;
+	}
+	
+	.wpforms-submit-container > * {
+		width: 100%;
+	}
+/* SUBMIT END */
+/*FORM */
+
+	
+/* ---CHATBOT PAGE--- */
+	
+/* ACCORDION */
+.elementor-element-4ae19e1 > * {
+		justify-content: center !important;
+		padding: 0 !important;
+	}
+	
+	.sp-ea-single a{
+		font-size: 0.9rem !important;
+	}
+
+/* ACCORDION END */
+	
+/* ---CHATBOT PAGE END--- */
+	
+	
+}
+
+
+
+
+
+
+
+
+/* Tablet Media Q */
+@media screen and (min-width: 768px){
+		#ekit-megamenu-main-menu-new{
+		background-color: #1F1E1EFC !important;
+	}
+}
+/* Tablet Media Q end */
+
+
+
+
+
+
+
+/* DESKTOP MEDIA Q PC */
+@media screen and (min-width: 768px){
+		/* Hide contactez-nous on desktop	 */
+		#menu-item-7990{
+		display: none !important;
+	}
+		
+			
+.e-n-tabs-heading{
+	display: grid !important;
+	grid-template-columns: repeat(3, 1fr);
+	gap: 1em !important;
+}
+
+.e-n-tab-title{
+	padding: 0.7em 0.5em !important;
+}
+
+}
+/* DESKTOP MEDIA Q PC end*/
+
+
