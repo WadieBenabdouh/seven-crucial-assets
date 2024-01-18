@@ -254,10 +254,12 @@
 	background-color: #f4bd0b;
 	border: solid 1px #000;
 	border-radius: 10px;
+	transition: 0.2s;
 }
 #wpforms-submit-9207:hover{
 	background-color: #000;
 	color: #f4bd0b;
+	border-radius: 50px;
 }
 /* SUBMIT BTN END */
 /*---- CONTACTEZ-NOUS FORM END ----*/
