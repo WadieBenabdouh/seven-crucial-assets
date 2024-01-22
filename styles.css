@@ -1,16 +1,17 @@
 ::selection{
   color: #fff !important;
-	background-color: blue;
+	background-color: #000000;
 }
 
 #scrollUp{
 	border-radius: 50px;
+	border: solid 1px gray;
 	position: relative;
 	left: 91%;
-	opacity: 0.5;
+	opacity: 0.6;
 	max-width: 2em;
 	max-height: 2em;
-	background-color: #e8a400;
+	background-color: #f4bd0b;
 }
 
 #scrollUp svg{
