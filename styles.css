@@ -293,6 +293,27 @@
 /* SECTION SCROLL (ARTICLES)*/
 /*---- NOS CLIENT PAGE END----*/
 
+
+/* Nos centres d'expertises */
+	.elementor-element-01ca328 img{
+		/* first 3 icons		 */
+		max-width: 2.3em !important;
+	}
+	
+	.elementor-element-5b39154 img{
+		max-width: 2.3em !important;
+	}
+	
+/* Nos centres d'expertises end */
+
+
+
+/* ---Nous Rejoindre--- */
+.elementor-element-4c8a8f5 img{
+	max-width: 2.3em !important;
+}
+/*--- Nous Rejoindre End ---*/
+
 /* DREMIO-MICROSOFT */
 .elementor-element-8c3c5e6{
 	margin-bottom: 2em;
@@ -509,6 +530,7 @@
 	}
 	
 /* Nos centres d'expertises end */
+	
 	
 	/* show contactez-nous in mobile */
 	#menu-item-7990{
