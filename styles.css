@@ -287,10 +287,6 @@
 .elementor-element-8bb119a > * {
 	display: inline-block;
 }
-
-.elementor-element-8bb119a{
-	scrollbar-color: #000 #000 !important;
-}
 /* SECTION SCROLL (ARTICLES)*/
 /*---- NOS CLIENT PAGE END----*/
 
@@ -685,13 +681,13 @@ section-two-form select{
 
 
 
-/* Tablet Media Q */
+/* ---Tablet Media Q ---*/
 @media screen and (min-width: 768px){
 		#ekit-megamenu-main-menu-new{
 		background-color: #1F1E1EFC !important;
 	}
 }
-/* Tablet Media Q end */
+/*--- Tablet Media Q end ---*/
 
 
 
@@ -699,7 +695,7 @@ section-two-form select{
 
 
 
-/* DESKTOP MEDIA Q PC */
+/*--- DESKTOP MEDIA Q PC ---*/
 @media screen and (min-width: 768px){
 		/* Hide contactez-nous on desktop	 */
 		#menu-item-7990{
@@ -718,6 +714,6 @@ section-two-form select{
 }
 
 }
-/* DESKTOP MEDIA Q PC end*/
+/*--- DESKTOP MEDIA Q PC end--- */
 
 
